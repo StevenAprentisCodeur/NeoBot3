@@ -19,4 +19,4 @@ bot.on('message', message => {
     if (message.content === prefix + "youtube"){
         message.channel.sendMessage("Chaîne Youtube de NeoflasH : https://www.youtube.com/channel/UCDBIzgcBjtlGjnj6jkbZsnA?");
     }
-});
+})
